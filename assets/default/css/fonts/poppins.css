@@ -1,0 +1,33 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background:#fafafa;
+    overflow-x: hidden;
+    position: relative;
+}
+
+
+.section-title h1, .section-title h2, .section-title h3, .section-title h4 ,.section-title h5{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    position: relative;
+}
+
+.cbp-l-loadMore-link.site-btn{
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    border: 0 !important;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    padding: 1px 29px !important;
+    line-height: 35px !important;
+}
+
+
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Poppins', sans-serif;
+}
